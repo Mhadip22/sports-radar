@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-20",
+  "morning_sent": false,
+  "last_update_id": 0,
+  "bankroll": {
+    "initial": 83.29,
+    "cash": 88.96,
+    "locked": 7.0,
+    "max_daily_loss": -10.0
+  },
+  "daily_pnl": 0.0,
+  "live_bets_today": 0,
+  "max_live_bets": 1,
+  "excluded_teams": [
+    "San Antonio Spurs",
+    "LA Clippers",
+    "Portland Trail Blazers",
+    "Milwaukee Bucks",
+    "Memphis Grizzlies",
+    "Golden State Warriors"
+  ],
+  "watchlist": {},
+  "alerted_ids": []
+}
