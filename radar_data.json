@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "morning_sent": false,
-  "last_update_id": 876446594,
+  "last_update_id": 876446597,
   "bankroll": {
     "initial": 83.29,
     "cash": 88.96,
@@ -19,6 +19,27 @@
     "Memphis Grizzlies",
     "Golden State Warriors"
   ],
-  "watchlist": {},
+  "watchlist": {
+    "ATP_187530": {
+      "league": "ATP",
+      "title": "P1 vs P2",
+      "fav_player": "P2"
+    },
+    "ATP_187531": {
+      "league": "ATP",
+      "title": "P1 vs P2",
+      "fav_player": "P1"
+    },
+    "ATP_187527": {
+      "league": "ATP",
+      "title": "TBD vs Alexander Zverev",
+      "fav_player": "Alexander Zverev"
+    },
+    "ATP_187528": {
+      "league": "ATP",
+      "title": "Ben Shelton vs TBD",
+      "fav_player": "Ben Shelton"
+    }
+  },
   "alerted_ids": []
 }
