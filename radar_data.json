@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "morning_sent": false,
+  "morning_sent": true,
   "last_update_id": 876446597,
   "bankroll": {
     "initial": 83.29,
@@ -19,6 +19,28 @@
     "Memphis Grizzlies",
     "Golden State Warriors"
   ],
-  "watchlist": {},
+  "watchlist": {
+    "NBA_401909329": {
+      "league": "NBA",
+      "title": "BKN @ TOR",
+      "fav_abbr": "TOR",
+      "spread": -8.5,
+      "mins": 48
+    },
+    "NBA_401909330": {
+      "league": "NBA",
+      "title": "ATL @ BOS",
+      "fav_abbr": "BOS",
+      "spread": -8.5,
+      "mins": 48
+    },
+    "NBA_401909334": {
+      "league": "NBA",
+      "title": "DEN @ UTAH",
+      "fav_abbr": "DEN",
+      "spread": -10.5,
+      "mins": 48
+    }
+  },
   "alerted_ids": []
 }
